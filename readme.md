@@ -16,7 +16,7 @@ The architecture diagram illustrates the components and interactions between the
 - **Cache (e.g., Redis)**: Caches real-time leaderboard data and quiz sessions for quick access.
 
 #### **Architecture Diagram**
-![[assets/architecture-diagram.png]]
+![alt text](https://i.ibb.co/1GXpJb9/architecture-diagram.png)
 
 ---
 
